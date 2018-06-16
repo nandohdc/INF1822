@@ -1,0 +1,84 @@
+Encript: 471742
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 483300
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 465749
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 478119
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471698
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484048
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471658
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471670
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471707
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484035
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471712
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471701
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471692
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484060
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471649
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484036
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471646
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471646
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471659
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471707
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484048
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471721
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484025
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471724
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471728
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471708
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484048
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471720
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484026
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 471650
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 484189
+Original Msg: 4vJFKapf18RRRxHi
+Encript: 465740
+Ciphertext: 93a4267354dac4f98b5dce06361e2d66
+Decript: 479424
+Original Msg: 4vJFKapf18RRRxHi

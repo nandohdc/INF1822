@@ -31,7 +31,7 @@ This example runs tests on the AES implementation to verify correct behaviour.
 AES128 aes128;
 
 uint8_t key[16] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
-uint8_t data16[16] = {30,33,60,2,1,15,2,3,5,7,8,9,24,23,21,19};
+uint8_t data16[16] = {30,33,60,2,1,15,2,3,30,33,60,2,1,15,2,3};
 byte buffer[16];
 byte output[16];
 
@@ -62,7 +62,7 @@ void perfCipher(BlockCipher *cipher)
     for (count = 0; count < 1000; ++count) {
       cipher->encryptBlock(buffer, data16);
     }
-    elapsed = micros() - start;
+    elapsed = (micros() - start)/1000.0;
     Serial.print("Elapsed:");
     Serial.print(elapsed);
     Serial.print(" us, ");
@@ -77,7 +77,7 @@ void perfCipher(BlockCipher *cipher)
     for (count = 0; count < 1000; ++count) {
         cipher->decryptBlock(output, buffer);
     }
-    elapsed = micros() - start;
+    elapsed = (micros() - start)/1000.0;
     Serial.print("Elapsed:");
     Serial.print(elapsed);
     Serial.print(" us, ");
