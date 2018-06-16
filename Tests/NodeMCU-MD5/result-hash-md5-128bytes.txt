@@ -1,0 +1,42 @@
+Time Elapsed: 292030
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291307
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291317
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291308
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291315
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 294577
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291278
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291324
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291328
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291310
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291275
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291308
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291296
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291345
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291279
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291306
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291275
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291333
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291282
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291332
+Hash: 289fa593b7b92cb4cff33067d013c62c
+Time Elapsed: 291279
+Hash: 289fa593b7b92cb4cff33067d013c62c

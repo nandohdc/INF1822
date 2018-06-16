@@ -1,0 +1,42 @@
+Time Elapsed: 263404
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259616
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259642
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259616
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259653
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259617
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259644
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259644
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259648
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259644
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259620
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259653
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259617
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259642
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259642
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259658
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259616
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259641
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259617
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259656
+Hash: 5a3c829b8aefd54661fbccded6e44396
+Time Elapsed: 259691
+Hash: 5a3c829b8aefd54661fbccded6e44396

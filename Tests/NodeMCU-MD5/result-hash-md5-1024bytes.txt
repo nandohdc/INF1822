@@ -1,0 +1,42 @@
+Time Elapsed: 492700
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493349
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493353
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493293
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493340
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493349
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493286
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493363
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493275
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493311
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493353
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493296
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493283
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493353
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493338
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493344
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493366
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493292
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493350
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493359
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
+Time Elapsed: 493340
+Hash: ea9a5fa12cf5df243ce88078691bc4ae
