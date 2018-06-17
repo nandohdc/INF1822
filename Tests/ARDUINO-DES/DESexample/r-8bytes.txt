@@ -1,0 +1,155 @@
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1774908
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775032
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775028
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774912
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774908
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775028
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774908
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775028
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774908
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774912
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775024
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774908
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775028
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774904
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+START
+========= DES test ==========
+Encrypt...
+Time Elapsed: 1775032
+OrgMsg: JqoejK4V
+Result: FC A1 1E 89 A9 4B 51 3F 
+Decrypt...
+Time Elapsed: 1774912
+OrgMsg: JqoejK4V
+Result: 4A 71 6F 65 6A 4B 34 56 
+FINISH
+Loops:100

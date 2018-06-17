@@ -29,7 +29,6 @@ void MD5_test(char* OriginalMsg) {
   Serial.println(md5str);
 }
 
-
 void setup()
 {
   Serial.begin(9600);
