@@ -8,7 +8,7 @@
    source: http://spaniakos.github.io/ArduinoDES/classDES.html
 */
 
-void desTest() {
+void DES_test() {
   DES des;
   unsigned long Time_start;
   unsigned long Time_end;
