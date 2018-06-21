@@ -50,13 +50,12 @@ static TestVector const testVectorAES128 = {
 
 AES128 aes128;
 
-byte buffer[16];
-
 void perfCipher(BlockCipher *cipher, const struct TestVector *test)
 {
     unsigned long start;
     unsigned long elapsed;
     int count;
+    byte buffer[16];
 
     crypto_feed_watchdog();
 
