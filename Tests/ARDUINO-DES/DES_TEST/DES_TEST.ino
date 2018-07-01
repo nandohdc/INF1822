@@ -22,7 +22,7 @@ void DES_test() {
   //encrypt
   Serial.println("Encrypt...");
   Time_start = micros();
-  for (counter = 0; counter < 100; ++counter) {
+  for (counter = 0; counter < 1000; ++counter) {
     des.encrypt(out, in, key);
   }
   Time_end = micros();
@@ -40,7 +40,7 @@ void DES_test() {
   }
   Serial.println("Decrypt...");
   Time_start = micros();
-  for (counter = 0; counter < 100; ++counter) {
+  for (counter = 0; counter < 1000; ++counter) {
     des.decrypt(out, in, key);
   }
   Time_end = micros();
@@ -70,6 +70,6 @@ void setup() {
 
 void loop() {
   Serial.println("START");
-  desTest();
+  DES_test();
   Serial.println("FINISH");
 }
