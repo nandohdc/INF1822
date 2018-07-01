@@ -47,10 +47,7 @@ static TestVector const testVectorAES128CBC1 = {
     .name        = "AES-128-CBC",
     .key         = {'1', '2', '3', '4', '5', '6', '7', '8',
                     '9', '0', 'a', 'b', 'c', 'd', 'e', 'f'},    
-    .plaintext   = /*{'4', 'v', 'J', 'F', 'K', 'a', 'p', 'f',
-                    '1', '8', 'R', 'R', 'R', 'x', 'H', 'i'},*/
-                    
-                    {'V', 'n', 'z', 'd', 'f', 'S', 'p', 'u',
+    .plaintext   = {'V', 'n', 'z', 'd', 'f', 'S', 'p', 'u',
                     'd', 'k', 'b', 'G', 'R', 'w', 'X', '8',
                     'f', 'B', 'o', 'U', 'z', 'F', 'S', 'W',
                     'F', 'g', '9', '4', '0', 'z', 'c', 'o',
@@ -71,7 +68,7 @@ void perfCipher(const char *name, Cipher *cipher, const struct TestVector *test)
     unsigned long start;
     unsigned long elapsed;
     int count;
-    byte buffer[64];
+    byte buffer[test->size];
 
     Serial.print("AES-128-CBC Encrypt");
     Serial.print(" ... ");
@@ -79,12 +76,12 @@ void perfCipher(const char *name, Cipher *cipher, const struct TestVector *test)
     cipher->setKey(test->key, cipher->keySize());
     cipher->setIV(test->iv, cipher->ivSize());
     start = micros();
-    for (count = 0; count < 500; ++count) {
+    for (count = 0; count < 1000; ++count) {
         cipher->encrypt(test->ciphertext, test->plaintext, sizeof(test->plaintext));
     }
     elapsed = micros() - start;
     Serial.print("Time Elapsed: ");
-    Serial.print(elapsed / (500.0));
+    Serial.print(elapsed);
     Serial.println("us");
 
     Serial.print("AES-128-CBC Decrypt");
@@ -93,28 +90,28 @@ void perfCipher(const char *name, Cipher *cipher, const struct TestVector *test)
     cipher->setKey(test->key, cipher->keySize());
     cipher->setIV(test->iv, cipher->ivSize());
     start = micros();
-    for (count = 0; count < 500; ++count) {
+    for (count = 0; count < 1000; ++count) {
         cipher->decrypt(buffer, test->ciphertext, sizeof(test->ciphertext));
     }
     elapsed = micros() - start;
     Serial.print("Time Elapsed: ");
-    Serial.print(elapsed / (500.0));
+    Serial.print(elapsed);
     Serial.println("us");
-
+    /*
     for(int i = 0; i < test->size; i++){
       Serial.print((char)buffer[i]);
-      }
-    Serial.println();
+    }
+    Serial.println();*/
 }
 
 void setup()
 {
     Serial.begin(9600);
-
-    Serial.println();
-
-    Serial.println("Performance Tests:");
-    perfCipher("AES-128-CBC Encrypt", &cbcaes128, &testVectorAES128CBC1);
+    int i = 20;
+    while (i > 0){
+      perfCipher("AES-128-CBC Encrypt", &cbcaes128, &testVectorAES128CBC1);
+      i--;
+    }
 }
 
 void loop()
